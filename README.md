@@ -1,1 +1,2 @@
-# biostat776-intro-Haoxue-Xiang
+# Introducing myself
+This website contains a short introduction of Haoxue Xiang :).
