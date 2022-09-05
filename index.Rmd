@@ -1,0 +1,18 @@
+---
+title: "My Website"
+---
+
+## Introduction
+Hello! My name is Haoxue Xiang. I am a first year Biostatistics ScM student. I come from Beijing, China. I finished my undergraduate study at University of Washington, where I majored in Statistics. During my undergraduate study, I did some researches with professors at School of Pharmacy to help to perform some RNAseq analysis and build a biomedical database. I also worked as an intern at Fred Hutchinson Cancer Research center during my second year, where I helped to collect data, perform statistical analyses, and create data visualizations of COVID-19 pandemic. I mainly learnt and used R in my coursework and research during my undergraduate study. I am also familiar with Python and Matlab, and know a little bit about Java. Since I think the knowledge about R I learnt in my undergraduate study is a little bit basic and not systematic, I hope to learn more about advanced techniques of using R in this course, such as ggplot and building R packages.
+
+## Fun Facts about me
+1. I have an exotic shorthair cat (the similar cat in the Garfield film!). He is two years old now and super cute!
+2. I have a little sister who is ten years younger than me. 
+3. I love traveling and have traveled to many places in Europe, especially Northern Europe.
+4. I have spent more than one year having online classes in China during the pandemic.
+5. I really enjoy cooking and good at it, especially cooking Chinese cuisine.
+
+## Interesting Webpage
+https://www.patatap.com/
+
+This website plays different sounds and animations based on keys you’re pressing on your computer’s keyboard, which is really cool. Try to create some beautiful animations by tapping!
